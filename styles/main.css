@@ -1,0 +1,16 @@
+@import url(normalize.css);
+@import url(header.css);
+@import url(main-body.css);
+@import url(footer.css);
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+    --dark-brown-color: #723E31;
+    --brown-color: #A67564;
+    --light-brown-color: #D9B18E;
+    --milky-color: #F2F1EF;
+    --container-max-width: 1570px;
+}
